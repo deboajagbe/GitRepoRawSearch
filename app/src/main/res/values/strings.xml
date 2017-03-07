@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitRepo</string>
+    <string name="url">Enter Url</string>
+    <string name="urlView">Fetch Url Display Here</string>
+    <string name="urlResult">Result Display Here</string>
+    <string name="search">Search</string>
+    <string name="error_message">Failed to get result pls try again</string>
+</resources>
